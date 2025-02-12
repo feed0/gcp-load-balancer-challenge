@@ -1,6 +1,6 @@
- gcp-load-balancer-challenge
+# gcp-load-balancer-challenge
 
-Challenge scenario
+## Challenge scenario
 
 You have started a new role as a Junior Cloud Engineer for Jooli, Inc. You are expected to help manage the infrastructure at Jooli. Common tasks include provisioning resources for projects.
 
