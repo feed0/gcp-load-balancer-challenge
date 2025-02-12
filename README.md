@@ -30,8 +30,8 @@ Requirements:
 `ON THE GOOGLE CLOUD SHELL:`
 ```shell
 # VARS
-export REGION=___
 export ZONE=___
+export REGION="${ZONE%-*}"
 export JUMPHOST=___
 
 # SETUP DEFAULTS
